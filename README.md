@@ -52,3 +52,7 @@ If there are no more moves, the terminal state will reward 0.
 ### Objective
 
 The objective function is to maximize the score obtained by the bot.
+
+## How to play
+
+Run `python3 gato.py` and follow instructions given by the terminal.
